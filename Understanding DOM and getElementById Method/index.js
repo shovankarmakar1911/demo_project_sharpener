@@ -1,0 +1,10 @@
+let main_heading = document.getElementById("main-heading");
+main_heading.innerHTML = "Fruit World";
+main_heading.style.color = "orange";
+let header_2 = document.getElementById("header");
+header_2.style.backgroundColor = "green";
+header_2.style.borderBottom = '3px solid orange';
+let basket_heading = document.getElementById("basket-heading");
+basket_heading.style.color = "green";
+let thanksDiv = document.getElementById("thanks");
+thanksDiv.innerHTML = '<p>Please visit us again</p>';
