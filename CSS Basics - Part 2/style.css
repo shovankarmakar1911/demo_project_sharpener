@@ -1,0 +1,24 @@
+/* Write your code here */
+
+/* Apply styling to the form element */
+form {
+    padding: 25px;
+    background-color: pink;
+  }
+  
+  /* Apply styling to the input element with id "name" */
+  #name {
+    height: 25px;
+  }
+  
+  /* Apply styling to the label element associated with the input */
+  label[for="name"] {
+    font-style: italic;
+  }
+  
+  /* Apply styling to buttons with class "btn" */
+  .btn {
+    margin-top: 25px;
+    padding: 10px;
+  }
+  
